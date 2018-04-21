@@ -1,2 +1,2 @@
 # hello
-just nothing
+#include <stdio.h>
